@@ -1,6 +1,11 @@
-user details
+<h3>user details :</h3>
 
-"user_id": 142420, "pin": 231225
+"user_id": 142420,
+"pin": 231225
+
+
+<br/>
+
 
 <h1>Application Preview :</h1>
 
